@@ -1,7 +1,11 @@
-# bijack
+# the coding is my life
 
 A new Flutter project.
 
+made by kartik bhardwaj
+
+this app has a code of authentication of email this code just tell you how can you use email authentication in flutter
+I have use Firebase in flutter android app 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
